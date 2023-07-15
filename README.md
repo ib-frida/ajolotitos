@@ -1,6 +1,4 @@
-# Ajolotitos
-
-## Proyecto de Ajolotes
+# Proyecto de Ajolotes
 
 Este proyecto de GitHub fue creado en el marco del programa Technolochicas y se enfoca en recopilar información y recursos relacionados con los ajolotes, fascinantes criaturas acuáticas conocidas por su apariencia única y su capacidad regenerativa. Los ajolotes, también conocidos como axolotes, son una especie de salamandra que habita en cuerpos de agua dulce en México.
 
